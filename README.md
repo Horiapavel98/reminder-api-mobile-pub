@@ -77,3 +77,5 @@ Next on we transition to the reminder screen.
 Filling in the details             |  Confirmation
 :-------------------------:|:-------------------------:
 ![](img/filled_in.png)  |  ![](img/reminder_success.png)
+
+@Horiapavel98
